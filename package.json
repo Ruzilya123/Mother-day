@@ -2,7 +2,7 @@
   "name": "mother-day",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruzilya123.github.io/mother-day/",
+  "homepage": "https://ruzilya123.github.io/Mother-day/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
