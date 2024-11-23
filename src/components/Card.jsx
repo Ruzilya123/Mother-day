@@ -33,7 +33,7 @@ export const Card = () => {
           Желаю тебе здоровья, радости и гармонии. Пусть каждый день дарит
           улыбки, а мечты сбываются, ведь ты — лучшая мама на свете!
         </p>
-        <button onClick={() => clickButton()} className="button">Люблю тебя!</button>
+        <button onClick={() => clickButton()} className="button">От всей души!</button>
       </div>
     </div>
   );
