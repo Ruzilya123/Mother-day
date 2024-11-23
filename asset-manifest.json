@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mother-day/static/css/main.e5d25bff.css",
-    "main.js": "/mother-day/static/js/main.8b1cc670.js",
-    "static/media/flowers.png": "/mother-day/static/media/flowers.35d331b6f6ec6691ed33.png",
-    "index.html": "/mother-day/index.html",
-    "main.e5d25bff.css.map": "/mother-day/static/css/main.e5d25bff.css.map",
-    "main.8b1cc670.js.map": "/mother-day/static/js/main.8b1cc670.js.map"
+    "main.css": "/Mother-day/static/css/main.e5d25bff.css",
+    "main.js": "/Mother-day/static/js/main.ef882ab4.js",
+    "static/media/flowers.png": "/Mother-day/static/media/flowers.35d331b6f6ec6691ed33.png",
+    "index.html": "/Mother-day/index.html",
+    "main.e5d25bff.css.map": "/Mother-day/static/css/main.e5d25bff.css.map",
+    "main.ef882ab4.js.map": "/Mother-day/static/js/main.ef882ab4.js.map"
   },
   "entrypoints": [
     "static/css/main.e5d25bff.css",
-    "static/js/main.8b1cc670.js"
+    "static/js/main.ef882ab4.js"
   ]
 }
